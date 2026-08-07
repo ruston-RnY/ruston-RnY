@@ -4,27 +4,27 @@
 </p>
 
 <p align="center">
-  Frontend engineer since 2021, primarily in the Vue and Nuxt ecosystem.
-  I care about interfaces that stay understandable and maintainable long after the first release.
+  Frontend engineer since 2021 — Angular, React, and Next.js in earlier roles,
+  Vue and Nuxt as my main stack today. Having worked across both ecosystems,
+  picking either back up is rarely the hard part.
 </p>
 
 <p align="center">
-  Currently working in an end-to-end delivery model: I take a feature from user conversation
-  and requirement analysis, through the Go and MySQL layer behind it,
-  down to the interface people actually use.
+  I take a feature the whole way — from the conversation that defines it,
+  through the backend it needs, down to the interface people actually use.
 </p>
 
 ### How I Work
 
-- **Frontend architecture is mine** — when a new project starts, I set it up: structure, architecture, and which libraries and plugins we commit to. Those decisions are the ones you live with for years, so I make them deliberately. In practice that means working across both ends of the ecosystem: maintaining a legacy Nuxt 2 codebase while building new work in Nuxt 4.
+- **Frontend architecture** — I set up new projects from scratch: structure, the libraries and plugins to commit to, and the conventions that keep a codebase consistent. Those decisions are what a team lives with for years, so I make them deliberately. I'm comfortable at both ends of the spectrum: keeping a legacy codebase healthy, or starting something new from an empty folder.
 - **Requirement discovery** — I follow up directly with users rather than waiting for a finished spec. I map how they work today, find the manual steps that hurt, and propose what a web solution should actually replace.
-- **Feature delivery across the stack** — I currently build features on both sides: the Go endpoints and the MySQL behind them, queries and schema changes included, plus the Nuxt frontend that consumes them. I've also worked with Laravel and Express on smaller projects.
-- **AI features in production** — I integrate LLM APIs into real product features, including legal document risk analysis where users choose the stance the analysis takes. Prompt design, API integration, and making non-deterministic output dependable enough for a business process to run on.
+- **Feature delivery across the stack** — I work both sides of a feature: the API endpoints and the data layer behind them, queries and schema changes included, plus the frontend that consumes them.
+- **AI integration** — I build product features on top of LLM APIs: prompt design, API integration, and shaping non-deterministic output into something a business process can rely on.
 - **AI-assisted workflow** — I use AI coding assistants to work across a wider surface area, while keeping the review and architectural decisions mine.
 
 ### Tech Stack
 
-**Frontend** — where I own the architecture
+**Frontend** — where I'm strongest
 
 <p>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white"/>
