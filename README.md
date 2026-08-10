@@ -73,6 +73,20 @@
 
 ### Featured Work
 
+**[Tooth Atlas](https://learn-teeth-anatomy.vercel.app/en)** — _personal project, live_
+
+An interactive 3D model of the human dentition across a whole lifetime, from bare
+gums at birth to the changes of old age. Age is the only input: drag one slider and
+baby teeth erupt in order, permanent teeth push them out from below, then gums
+recede and chewing surfaces wear down. The 3D scene, the side panels, the schedule
+tables, and the screen-reader text are all derived from the same pure function, so
+they cannot drift out of sync. Teeth are generated procedurally from six numbers
+each rather than loaded as a 3D asset, which keeps all 52 individually clickable
+and animatable with nothing to download. Bilingual, fully prerendered, and shipped
+with a complete text equivalent that works without WebGL.
+
+`Next.js` · `React` · `TypeScript` · `three.js` · `React Three Fiber` · `Tailwind`
+
 **Legal Document Workflow** — _internal company system, code not public_
 
 A legal document process that used to run manually, rebuilt as a single digital
